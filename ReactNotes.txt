@@ -27,4 +27,11 @@ function                                 vs            Class
 3)Absence of this key word                    3)complex UI logic
 4)solution without using state                4)provide lifcyle hooks
 5)Mainly responsible for UI                   5)Stateful / smart / Container
-6)Stateless / Dumb / Presentational
+/// 6)Stateless / Dumb / Presentational
+
+10) JSX
+--> 1)javascript XML
+    2)XML-like Code
+    3)JSX tags have a tag name, attributes , and children
+    4)JSX makes your react code simpler and elegent
+
