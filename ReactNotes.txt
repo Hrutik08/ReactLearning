@@ -20,3 +20,11 @@ React
 
 9) Functional component?
 -> simple javascript file
+
+function                                 vs            Class
+1)simple component                            1)More feture rich
+2)use as much as possible                     2)Maintain their own private data
+3)Absence of this key word                    3)complex UI logic
+4)solution without using state                4)provide lifcyle hooks
+5)Mainly responsible for UI                   5)Stateful / smart / Container
+6)Stateless / Dumb / Presentational
