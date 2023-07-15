@@ -1,0 +1,22 @@
+React 
+
+1) React is a library, not a framework.
+2) Focus on UI
+
+3) Component based architecture
+4) Reusable Code
+5) React is declarative - Tell React what you want and React will build the actual UI
+
+6) What is npx?
+-> npm package runner
+
+7) What is npm?
+-> craete react packege globally 
+
+8) Component?
+-> Reusable UI. BUildig block of any React application
+  i) Component Types?
+  -> Stateless Functional Component and StateFul Class Component
+
+9) Functional component?
+-> simple javascript file
